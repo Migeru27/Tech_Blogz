@@ -2,12 +2,12 @@
 A site meant to show a text blog with being able to 
 ## About
 
-A simple program that is meant to make a quick and simple read me file for your github project.
+A simple program that is meant to make a blog where you can add/remove posts along with being able to make comments. Posts can also be updated with the ability to track posts with profiles to make each posts identified by users. 
 
 
 ## Motivation 💡
 
-I wanted to make the process of making a read me a bit more efficient and fun. I can use it for future projects and want to share that technique with others too.
+I wanted to make a place where people can talk and communicate with each other and have a safe space without needing to remember what the conversation was about and can be continued at any moment. 
 
 ## Tools 
 
@@ -41,3 +41,4 @@ Seeing Your Posts
 ## Links 
 
 [Deployed Link](https://superb-faun-15eb1b.netlify.app/)
+
